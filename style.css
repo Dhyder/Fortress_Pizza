@@ -573,3 +573,135 @@ div { position: absolute; }
 	background:rgba(255,255,255,0);
 }
 
+
+#large_size {
+	top: 160px;
+	left: 532px;
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#medium_size {
+	top: 160px;
+	left: 283px;
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#small {
+	top: 180px;
+	left: 100px;
+	width: 73px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#large {
+	top: 180px;
+	left: 570px;
+	width: 73px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#medium {
+	top: 180px;
+	left: 320px;
+	width: 89px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pizza_type {
+	top: 250px;
+	left: 63px;
+	width: 498px;
+	height: 44px;
+	position: absolute;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#toppings_type {
+	top: 342px;
+	left: 357px;
+	width: 204px;
+	height: 44px;
+	position: absolute;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#crust_type {
+	top: 342px;
+	left: 63px;
+	width: 204px;
+	height: 44px;
+	position: absolute;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#select_your_pizza_here {
+	top: 239px;
+	left: 73px;
+	width: 224px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
