@@ -1770,3 +1770,154 @@ div { position: absolute; }
 	height: 5.03px;
 }
 
+
+#vector_ek59 {
+	top: 23px;
+	left: 12px;
+	width: 1.88px;
+	height: 1.57px;
+}
+
+
+#vector_ek60 {
+	top: 15px;
+	left: 35px;
+	width: 1.88px;
+	height: 1.57px;
+}
+
+
+#vector_ek61 {
+	top: 9px;
+	left: 28px;
+	width: 1.88px;
+	height: 1.57px;
+}
+
+
+#hot_and_ready__ {
+	top: 522px;
+	left: 196px;
+	width: 217px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Overlock SC;
+	font-size: 30px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#menu_ek2 {
+	top: 614px;
+	left: 14px;
+	width: 178px;
+	height: 74px;
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 180px;
+	height: 76px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	border: 1px solid #dc560b;
+	background:rgba(255,129.88,59.5,1);
+}
+
+
+#menu_ek3 {
+	top: 4px;
+	left: 31px;
+	width: 166px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Leelawadee UI;
+	font-size: 40px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#order_now {
+	top: 614px;
+	left: 317px;
+	width: 286px;
+	height: 74px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 288px;
+	height: 76px;
+	position: absolute;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	border: 1px solid #10e365;
+	background:rgba(59.5,255,79.05,1);
+}
+
+
+#order_now_ek1 {
+	top: 4px;
+	left: 43px;
+	width: 239px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Leelawadee UI;
+	font-size: 40px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#rep_1 {
+	top: 313px;
+	left: 1090px;
+	width: 268px;
+	height: 269px;
+}
+
+#delivery_details{
+	display: none;
+}
+
+input[type='radio']:after {
+	width: 20.5px;
+	height: 20px;
+	border-radius: 15px;
+	top: -0.9px;
+	left: -1px;
+	position: relative;
+	background-color: #A16C2D;
+	content: '';
+	display: inline-block;
+	visibility: visible;
+	border: 2px solid black;
+}
+
+input[type='radio']:checked:after {
+	width: 20.5px;
+	height: 20px;
+	border-radius: 15px;
+	top: -0.9px;
+	left: -1px;
+	position: relative;
+	background-color: #ffffff;
+	content: '';
+	display: inline-block;
+	visibility: visible;
+	border: 2px solid white;
+}
+a{
+	text-decoration: none;
+	color: #ffff;
+}
+html{
+	scroll-behavior: smooth;
+}
