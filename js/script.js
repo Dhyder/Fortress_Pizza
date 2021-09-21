@@ -78,3 +78,26 @@ $(document).ready(function(){
 });
 
 
+$(document).ready(function(){
+    $("#veggiepizza_1").mouseover(function(){
+      $("#veggiepizza_1").slideDown(30);
+    }).mouseout(function(){
+        $("#veggiepizza_1").slideUp(30);
+    });
+    $("#work6_1").mouseover(function(){
+      $("#white_front5").slideDown(3000);
+    }).mouseout(function(){
+        $("#white_front5").slideUp(5000);
+    });
+    $("#work7_1").mouseover(function(){
+      $("#white_front6").slideDown(3000);
+    }).mouseout(function(){
+        $("#white_front6").slideUp(5000);
+    });
+    $("#work8_1").mouseover(function(){
+      $("#white_front7").slideDown(3000);
+    }).mouseout(function(){
+        $("#white_front7").slideUp(5000);
+    });
+ });
+
