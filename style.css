@@ -1,0 +1,92 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__desktop___5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 4050px;
+	background:rgba(255,255,255,1);
+}
+
+#desktop___4 {
+	top: 3240px;
+	left: 0px;
+	width: 1440px;
+	height: 810px;
+}
+
+#whitebgpizza_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 810px;
+}
+
+
+#_176_1762300_bamboo_cutting_board_texture_picture_high_resolution_cutting_7 {
+	top: 245px;
+	left: 41px;
+	width: 412px;
+	height: 123px;
+}
+
+
+#_176_1762300_bamboo_cutting_board_texture_picture_high_resolution_cutting_8 {
+	top: 443px;
+	left: 41px;
+	width: 592px;
+	height: 308px;
+}
+
+
+#line_7 {
+	top: 405px;
+	left: 30px;
+	width: 611.04px;
+	height: 1px;
+	background:#000000;
+}
+
+
+#rectangle_18 {
+	top: 245px;
+	left: 41px;
+	width: 408px;
+	height: 120px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_20 {
+	top: 443px;
+	left: 41px;
+	width: 589px;
+	height: 304px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
+	background:rgba(255,255,255,0);
+}
