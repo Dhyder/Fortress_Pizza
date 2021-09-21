@@ -1027,3 +1027,150 @@ div { position: absolute; }
 	border: 1px solid #000000;
 	background:rgba(255,255,255,0);
 }
+
+#order_ek1 {
+	top: 23px;
+	left: 222px;
+	width: 145px;
+	height: 69px;
+	overflow: hidden;
+	font-family: Overlock SC;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+#add{
+	top: 342px;
+	left: 600px;
+	width: 100px;
+	height: 30px;
+	position: absolute;
+	font-size: large;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+::placeholder {
+	color: #000000;
+	opacity: 1;
+  }
+
+#order_details {
+	top: 209px;
+	left: 881px;
+	width: 475px;
+	height: 572px;
+}
+
+#_176_1762300_bamboo_cutting_board_texture_picture_high_resolution_cutting_6 {
+	top: 0px;
+	left: 0px;
+	width: 475px;
+	height: 572px;
+}
+
+
+#rectangle_10_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 472px;
+	height: 568px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#hotel_menu_list_with_lady_256x256_1 {
+	top: 276px;
+	left: 150px;
+	width: 325px;
+	height: 296px;
+}
+
+
+#output {
+	opacity: 18;
+	top: 449px;
+	left: 215px;
+	width: 83.03px;
+	height: 38.93px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	position: absolute;
+	
+	-ms-transform:rotate(0.06deg);
+	-o-transform:rotate(0.06deg);
+	-webkit-transform:rotate(0.06deg);
+	-moz-transform:rotate(0.06deg);
+	transform:rotate(0.06deg);
+	border: 0px solid #4d4747;
+	background:rgba(255,255,255,0);
+}
+
+
+#__1989 {
+	top: 423px;
+	left: 229px;
+	width: 89px;
+	height: 47px;
+	overflow: hidden;
+	font-family: Overlock SC;
+	font-size: 20px;
+	text-align: left;
+	color:#3D3232;
+}
+
+
+#line_4_ek1 {
+	top: 167px;
+	left: 56px;
+	width: 237.02px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#pizza {
+	top: 72px;
+	left: 42px;
+	width: 105px;
+	height: 64px;
+	overflow: hidden;
+	font-family: Overlock SC;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#amount {
+	top: 234px;
+	left: 42px;
+	width: 105px;
+	height: 64px;
+	overflow: visible;
+	font-family: Overlock SC;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
