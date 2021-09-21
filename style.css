@@ -705,3 +705,142 @@ div { position: absolute; }
 	color:#000000;
 }
 
+
+#crust {
+	top: 328px;
+	left: 70px;
+	width: 64px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#toppings {
+	top: 327px;
+	left: 367px;
+	width: 184px;
+	height: 42px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 730px;
+	height: 496px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+#checkoutbutton {
+	top: 423px;
+	left: 63px;
+	width: 193px;
+	height: 35px;
+}
+
+#checkout {
+	top: 0px;
+	left: 0px;
+	width: 156px;
+	height: 39px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#check_out {
+	top: 0px;
+	left: 17px;
+	width: 194px;
+	height: 41.5px;
+	overflow: hidden;
+	font-family: Overlock SC;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fort_ek1 {
+	top: 5px;
+	left: 287px;
+	width: 100px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+#textdelivery{
+	top: 15px;
+	left: 200px;
+	width: 300px;
+	height: 30px;
+	overflow: visible;
+	font-family: Overlock SC;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#delivery_details {
+	top: 209px;
+	left: 881px;
+	width: 475px;
+	height: 572px;
+	position: absolute;
+	font-family: Overlock SC;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+#rectangle_10 {
+	top: 0px;
+	left: 0px;
+	width: 472px;
+	height: 569px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#line_4 {
+	top: 167px;
+	left: 56px;
+	width: 237.02px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
