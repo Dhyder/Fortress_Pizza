@@ -91,98 +91,196 @@ div { position: absolute; }
 	background:rgba(255,255,255,0);
 }
 
-body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
-img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
-div { position: absolute; }
 
-#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
-
-#_bg__desktop___5 {
-	top: 0px;
-	left: 0px;
-	width: 1440px;
-	height: 4050px;
-	background:rgba(255,255,255,1);
-}
-
-#desktop___4 {
-	top: 3240px;
-	left: 0px;
-	width: 1440px;
-	height: 810px;
-}
-
-#whitebgpizza_1 {
-	top: 0px;
-	left: 0px;
-	width: 1440px;
-	height: 810px;
+#contact {
+	top: 253px;
+	left: 107px;
+	width: 383px;
+	height: 117px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 64px;
+	text-align: left;
+	color:#FFFFFF;
 }
 
 
-#_176_1762300_bamboo_cutting_board_texture_picture_high_resolution_cutting_7 {
-	top: 245px;
-	left: 41px;
-	width: 412px;
-	height: 123px;
-}
-
-
-#_176_1762300_bamboo_cutting_board_texture_picture_high_resolution_cutting_8 {
-	top: 443px;
-	left: 41px;
-	width: 592px;
-	height: 308px;
-}
-
-
-#line_7 {
-	top: 405px;
-	left: 30px;
-	width: 611.04px;
+#line_8 {
+	top: 593px;
+	left: 100px;
+	width: 233.02px;
 	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
 	background:#000000;
 }
 
+#facebook {
+	top: 485px;
+	left: 97px;
+	width: 30px;
+	height: 30px;
+}
 
-#rectangle_18 {
-	top: 245px;
-	left: 41px;
-	width: 408px;
-	height: 120px;
-	-ms-border-radius: 20px;
-	-o-border-radius: 20px;
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
-	border: 2px solid #000000;
-	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	background:rgba(255,255,255,0);
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
 }
 
 
-#rectangle_20 {
-	top: 443px;
-	left: 41px;
-	width: 589px;
-	height: 304px;
-	-ms-border-radius: 20px;
-	-o-border-radius: 20px;
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
-	border: 2px solid #000000;
-	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.5);
-	background:rgba(255,255,255,0);
+#vector_ek1 {
+	top: 6px;
+	left: 10px;
+	width: 9.02px;
+	height: 19.57px;
 }
+
+#ig_logo {
+	top: 531px;
+	left: 95px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#vector_ek3 {
+	top: 7px;
+	left: 7px;
+	width: 22.81px;
+	height: 22.63px;
+}
+
+#group {
+	top: 6px;
+	left: 6px;
+	width: 17.17px;
+	height: 17.17px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 17.17px;
+	height: 17.17px;
+}
+
+
+#vector_ek5 {
+	top: 4px;
+	left: 4px;
+	width: 8.88px;
+	height: 8.88px;
+}
+
+#group_ek1 {
+	top: 6px;
+	left: 15px;
+	width: 8.62px;
+	height: 17.17px;
+}
+
+#vector_ek6 {
+	top: 3px;
+	left: 3px;
+	width: 2.13px;
+	height: 2.13px;
+}
+
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 8.62px;
+	height: 17.17px;
+}
+
+
+#vector_ek8 {
+	top: 4px;
+	left: 0px;
+	width: 4.47px;
+	height: 8.88px;
+}
+
+#group_ek2 {
+	top: 577px;
+	left: 95px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
+}
+
+#group_ek3 {
+	top: 7px;
+	left: 8px;
+	width: 14.49px;
+	height: 18.63px;
+}
+
+#vector_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 14.49px;
+	height: 18.63px;
+}
+
+#email_icon {
+	top: 623px;
+	left: 95px;
+	width: 30px;
+	height: 30px;
+}
+
+#vector_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 29.98px;
+	height: 24.39px;
+}
+
+
+#vector_ek12 {
+	top: 3px;
+	left: 4px;
+	width: 22.5px;
+	height: 18.7px;
+}
+
+
+#vector_ek13 {
+	top: 17px;
+	left: 0px;
+	width: 29.28px;
+	height: 11.92px;
+}
+
+
+#vector_ek14 {
+	top: 8px;
+	left: 8px;
+	width: 15px;
+	height: 5.61px;
+}
+
 
 #vector_ek15 {
 	top: 11px;
@@ -323,6 +421,7 @@ div { position: absolute; }
 	width: 4.47px;
 	height: 2.21px;
 }
+
 
 #headquarters___kilimani_area__jabavu_gardens_along_rose_avenue__nairobi__branches___capital_center__mombasa_rd__nairobi__mombasa__nyali_centre_ {
 	top: 578px;
@@ -1028,6 +1127,7 @@ div { position: absolute; }
 	background:rgba(255,255,255,0);
 }
 
+
 #order_ek1 {
 	top: 23px;
 	left: 222px;
@@ -1173,7 +1273,6 @@ div { position: absolute; }
 	text-align: left;
 	color:#000000;
 }
-
 
 
 #crust_ek1 {
