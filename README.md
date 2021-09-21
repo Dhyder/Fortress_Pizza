@@ -13,7 +13,7 @@ https://dhyder.github.io/Fortress_Pizza/
 ![Fortress](https://user-images.githubusercontent.com/86789832/134103911-7067666f-48df-468c-9823-7a6b29642d0f.png)
 ## How To Use This Application
 * Open terminal on desktop(Linux(Ctrl+Alt+T) or Windows(Win+X))
-* https://github.com/Dhyder/Fortress_Pizza.git
+*  Git clone: https://github.com/Dhyder/Fortress_Pizza.git
 * cd Fortress_Pizza.
 * Open folder with vscode/atom/sublime your choice.
 ## Technologies
