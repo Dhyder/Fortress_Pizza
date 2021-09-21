@@ -45,3 +45,36 @@ function pizzaLog4(){
     document.getElementById("output4").value = numberOfPizza + " "+ "full box(es)";
     return true
 }
+function finalBilling(){
+    let finalBill = (getPizzaType() + toppingCount() + crustType())* getNumber(); 
+      document.getElementById("output").value = "Kshs." + finalBill + "/=";
+      return true;
+}
+
+
+$("form#form").on('submit',function(event){
+    event.preventDefault();{
+        swal("Your Order Is Being Processed! " + "Press The Proceed Button To Set Your Delivery Address"," ",  "success");
+
+    }
+});
+$("form#form2").on('submit',function(event){
+    event.preventDefault();{
+        swal("Thank You For Shopping at Fortress Pizza. A Rider Has Been Dispatched To Your Location! ", "Your Order Will Be arriving In A Few Minutes", "success");
+    }
+});
+
+$(document).ready(function(){
+    $("#checkoutbutton").click(function(){
+        $("#button").fadeIn(100);
+    });
+});
+
+$(document).ready(function(){
+    $("#button").click(function(){
+      $("#order_details").fadeOut();
+      $("#delivery_details").show(500);
+  });
+});
+
+
