@@ -60,7 +60,7 @@ $("form#form").on('submit',function(event){
 });
 $("form#form2").on('submit',function(event){
     event.preventDefault();{
-        swal("Thank You For Shopping at Fortress Pizza. A Rider Has Been Dispatched To Your Location! ", "Your Order Will Be arriving In A Few Minutes", "success");
+        swal("Thank You For Shopping at Fortress Pizza. A Rider Has Been Dispatched To Your Location At a Fee Of kshs200! ", "Your Order Will Be arriving In A Few Minutes", "success");
     }
 });
 
